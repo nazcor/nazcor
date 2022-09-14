@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nastazia Coronado
+- 👋 Hi, I’m Nastazia Coronado.
 - 👀 I’m interested in software development, web development, and natural language processing.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate.
