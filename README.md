@@ -10,7 +10,7 @@
 
 <hr>
 
-<h2>👧🏽 About Me</h2>
+<h2>👧🏽 About Me...</h2>
 
 I am a recent graduate from the University of California, Los Angeles with a Bachelor's Degree in Computer Science and Linguistics. I love to learn and am constantly working to improve my skills. Let's connect!
 
